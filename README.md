@@ -3,27 +3,27 @@
 ![Ecotracker](assets/img/ecotracker.png "Example picture")
 
 
-#### The aim with this app is to in a easy way visualize, receive and report species find at different locations. 
+#### The aim of this app is to in a easy way visualize, receive and report species find at different locations. 
 
-##### Today there is an increasing interest for the nature and the environmental debates are flourishing on media. Even so there a lack of alternitives for ordinary persons to find information about which species that is find at different locations which is easily accessible, simple to use and visual appealing. Our ambition is to offer an app where you can get information about which species that is found at different location and make it available for ordinary persons. In the long run we hope this will inspire people to learn more about the nature and increase the interest for our environment. The information available today could be presented in a simpler way and more easy to use and is mostly used by researcher and by people with high dedication for the nature. Our aim is to make this information easy available for ordinary people and contribute with a growing interest and awareness amongst common people for the nature. 
+##### Today there is an increasing interest for the nature and the environmental debates are flourishing on media. Even so there is a lack of alternatives for common people to find informations about which species that are found at different locations which is easily accessible, simple to use and visual appealing. Our ambition is to offering an app where you can get informations about which species that is found at different locations and make it available for common people. In the long run we hope this will inspire people to learn more about the nature and increase the interest for our environment. The information available today could be presented in a much  simpler way and more easy to use and is mostly used by researcher and by people with high dedication for the nature. Our aim is to make this information easy available for common people and contribute with a growing interest and awareness amongst common people for the nature. 
  
 ## UX
 
 ### User story
-#### We aspect this application to be used as a complement to traditional plattforms. 
+#### We aspect this application to be used as a complement to traditional platforms. 
 
 #### Typical user would be 
 - People that are curious about the nature and interested in what they can see at different locations
 - Researcher
 - People engaged in nature and environmental associations (eg. Birdwatcher)
 
-#### We suppose users in the three categories  above will be in the agespan between 14 to 65 year
+#### We suppose users in the three categories above will be in the agespan between 14 to 65 year
 
 #### These three categories have different needs
 
 - People that are curious about the nature are aspected to 
 ask for an app that is easy-to-us, intuative and visual 
-appealing which present information about the nature in the region they 
+appealing which present informations about the nature in the region they 
 are visiting. Probably the need for this information is
 most common when visiting a region or being out in the nature. 
 Therefore the first choice of devices used to finding this information
@@ -41,7 +41,7 @@ evaluate reported data they are supposed to use a large device such as a compute
 
 - 14- 25 years are looking for something with a 
 WOW-factor something new and trendy with a cool and 
-interactive design which could be viewed on the telephone.
+interactive design which could be viewed on a mobile telephone.
 
 - 25- 45 years are looking for a clear, informative app where it is easy to find and evaulate information, which is applicable both on computer and mobile devices
 
@@ -57,21 +57,26 @@ The different user and age-spans have different needs and expectation therefore 
 
 #### Decisions made for the first protype are
 
-1. Which category and needs to have in focus
-2. Decide which type of devices the app should focus on
-3. Which functions thats are necessary and which functions that could be released at later occasion
+1. The app should be made for small media devices
+2. It should present data in a simple way and be easy-to-use
+3. The main focus is to get information of species that could be found at the users current position
+4. As an option the users should be given the possibility to report which species they find at different locations
+5. The data should be collected, sent and stored at an external database
+
 
 #
 
 Problems/Opportunities | Importance | Viability/Feasibility|
 -----------------------|------------|----------------------|
+Create an app dedicated for mobile devices|5|4
+Collect, send and store data in an external database |5|2
+Visualize data on a map |5|2
+Adjust the design after user categories|3|3
 Create an online presence |	4|4
 Conduct a market research|4|	2
-Make design responsive|3|4
-Adjust the design after user categories|4|4
 Draw attention via Social media|	2	|3
 |||
-Sum	|17	|17
+Sum	|28	|20
 
 
 #
@@ -92,7 +97,7 @@ global and therefore is not restricted to a specific country.
 
 #### Weakness
 - Not the only alternative on the market. The traditional platforms have a large 
-customer base which is confident with their solutions. Further more the traditional platforms also
+customer base that are confident with their solutions. Further more the traditional platforms also
 have an extensive knowledge and great experience of taxonomy. 
 
 
@@ -100,7 +105,7 @@ have an extensive knowledge and great experience of taxonomy.
 #### Opportunity
 - Cooperate with traditional actors to increase the general interest for the nature,
 increase data collection by introducing new users and assure a high standard of validation
-by using data bases connected to traditional platform
+by using databases connected to traditional platform
 - Increase visitors/users to the app by introducing it on social media
 - Make it easy to find the app through search-optimising
 - Keep visitor coming back to the app by introducing new features
